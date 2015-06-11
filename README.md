@@ -12,6 +12,7 @@ At this time, the user will need to edit ‘init.rb’ to set the PGN_DIR variab
 Future feature possibilities
 
 -Option to include .pgn files contained within a folder's subfolders.
+
 -Option to make custom .pgn sets from several folders which aren't necessarily nested in each other.
 
 
